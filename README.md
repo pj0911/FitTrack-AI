@@ -9,7 +9,7 @@ No need for manual counting — FitTrack AI makes your workout sessions smarter 
 ---
 
 ## 🌐 Live Demo  
-👉 [FitTrack-AI](https://-six.vercel.app/)  
+👉 [FitTrack-AI](https://fittrack-ai.streamlit.app/)  
 
 ---
 
